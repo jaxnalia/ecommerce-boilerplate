@@ -9,7 +9,7 @@ export interface Product {
   stripe_product_id: string;
   stripe_price_id: string;
   metadata: {
-    category: string;
+    category?: string;
     weight?: string;
     dimensions?: string;
   };
