@@ -23,7 +23,7 @@ export const createCheckoutSession = async (items: CartItem[]) => {
     mode: 'payment',
     lineItems,
     successUrl: `${window.location.origin}/success`,
-    cancelUrl: `${window.location.origin}/cart`,
+    cancelUrl: `${window.location.origin}/`,
   });
 
   if (error) {
