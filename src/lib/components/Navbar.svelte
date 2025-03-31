@@ -17,7 +17,7 @@
   <div class="max-w-7xl mx-auto px-4">
     <div class="flex justify-between h-16">
       <div class="flex items-center">
-        <Link to="/" class="text-xl font-bold text-gray-800">ShopSmart</Link>
+        <Link to="/" class="text-xl font-bold text-gray-800">Zentih Pinnacle Art Studio</Link>
       </div>
       
       <div class="hidden md:flex items-center space-x-6">
