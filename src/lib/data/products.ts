@@ -17,9 +17,10 @@ export const products: Product[] = [
       dimensions: "146.7 x 71.5 x 7.4 mm"
     },
     currency: "USD",
-    inventory: 50,
+    inventory: 55,
     deliveryFee: "3.99"
   },
+
   {
     id: 2,
     title: "Laptop Pro",

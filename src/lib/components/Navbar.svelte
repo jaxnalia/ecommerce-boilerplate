@@ -20,6 +20,7 @@
         <Link to="/" class="text-xl font-bold text-gray-800">ShopSmart</Link>
       </div>
       
+      
       <div class="hidden md:flex items-center space-x-6">
         <Link to="/" class="text-gray-600 hover:text-gray-900">Home</Link>
         <Link 
